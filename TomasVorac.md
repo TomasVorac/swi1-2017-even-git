@@ -13,7 +13,7 @@ Your favorite color: ...
 
 Your favorite icecream: Vanilla
 
-Your favorite season: ...
+Your favorite season: Winnter
 
 
 (after this, please follow the instructions in README.md)
